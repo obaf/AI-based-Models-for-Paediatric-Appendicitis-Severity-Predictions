@@ -287,5 +287,3 @@ Dataset: Regensburg Pediatric Appendicitis, UCI Machine Learning Repository ID 9
 
 ---
 
-## 12. License
-No licence is set yet. For an open-source release, add a `LICENSE` file — **MIT** is a common permissive choice for the **code**. Note the **dataset** carries its own licence/terms (see the UCI page) and must be respected independently; this repo only redistributes a cached CSV for convenience.
