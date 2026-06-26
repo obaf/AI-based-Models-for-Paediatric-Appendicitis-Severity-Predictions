@@ -287,3 +287,6 @@ Dataset: Regensburg Pediatric Appendicitis, UCI Machine Learning Repository ID 9
 
 ---
 
+## 12. License
+
+MIT License
