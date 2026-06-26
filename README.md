@@ -2,7 +2,6 @@
 
 A fully reproducible benchmark that isolates the **severity** prediction task (complicated vs uncomplicated appendicitis) on the **Regensburg Pediatric Appendicitis** dataset and tests whether modern tabular classifiers can match or beat the published results of Marcinkevičs et al. (2024).
 
-> ⚠️ **Disclaimer.** This is an **educational / methodological** benchmark on a public research dataset. The numbers here are **not** clinical findings, this is **not** medical advice, and nothing here is a validated clinical decision tool. Any clinical use would require external/prospective validation and appropriate governance.
 
 ---
 
